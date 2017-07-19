@@ -8,11 +8,12 @@
 git clone git@github.com:CHIAHSINHOU/graphSummary.git
 ```
 
-####Dependencies: 
+###Dependencies: 
 * g++
 * openmpi
 * make
-####If you want to use python for clients, you need to install:
+
+###If you want to use python for clients, you need to install:
 * python
 * socket
 * binascii
